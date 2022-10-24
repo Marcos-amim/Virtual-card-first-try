@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+}
+h1{
+    font-family: Georgia, serif;
+    font-size: 32px;
+    font-weight: 500;
+}
+.cartao{
+    width: 400px;
+    height: 200px;
+    box-sizing: border-box;
+    padding: 1px 20px;
+    background: url('./image/background.png') no-repeat;
+    background-size: cover;
+    margin: auto;
+    margin-top: 10%;
+    letter-spacing: 2px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.instagram{
+    list-style-image: url('./image/Insta.png');
+
+}
+.twitter{
+    list-style-image: url('./image/Twitter.png');
+}
+.youtube{
+    list-style-image: url('./image/Youtube.png');
+}
