@@ -21,10 +21,8 @@ a{
     text-decoration: none;
     color: black;
 }
-
 .instagram{
     list-style-image: url('./image/Insta.png');
-
 }
 .twitter{
     list-style-image: url('./image/Twitter.png');
